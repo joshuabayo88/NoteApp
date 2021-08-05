@@ -2,3 +2,4 @@
 .DS_Store
 postcss.config.js
 tailwind.config.js
+node_modules
